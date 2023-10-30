@@ -14,5 +14,5 @@ This supply chain analytics project focuses on the following key areas:
 
 The project aims to enhance supply chain efficiency, address key shipment and inventory management challenges, identify supply chain inefficiencies, and create informative dashboards to provide insights to the business stakeholders. 
 
-![Dashboard 1]((https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash1.jpg)https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash1.jpg)
-![Dashboard 2](path/to/screenshot2.png](https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash4.jpg)https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash4.jpg)
+![Dashboard 1](https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash1.jpg)https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash1.jpg)
+![Dashboard 2](https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash4.jpg)https://github.com/snowieeeee/Supply-Chain-Analytics/blob/main/supply_chain_dash4.jpg)
